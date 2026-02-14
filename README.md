@@ -1,5 +1,4 @@
-SLA Performance & Breach Analysis Dashboard (Excel Mini Project)
-
+<p align="center"> <h1>📊 SLA Performance & Breach Analysis Dashboard</h1> <h2>Excel Mini Project | SLA Monitoring & KPI Reporting</h2> </p>
 
 📌 Objective
 
@@ -29,7 +28,7 @@ All departments recorded breach rates above 53%
 
 Finance (55.7%) and Procurement (55.2%) showed highest breach exposure
 
-Indicates systemic operational delays rather than isolated department issue
+Suggests the issue is organization-wide rather than limited to one department
 
 🛠 Analysis Approach
 
